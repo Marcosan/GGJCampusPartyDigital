@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 94801e176b6217d48b15a679900d2053
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_piso_mini_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_piso_mini_1
+    11400006: Tile_piso_mini_2
+    11400008: Tile_piso_mini_3
+    11400010: Tile_piso_mini_4
+    11400012: Tile_piso_mini_5
+    11400014: Tile_piso_mini_6
+    21300000: Sprite_piso_mini_1
+    21300002: Sprite_piso_mini_2
+    21300004: Sprite_piso_mini_3
+    21300006: Sprite_piso_mini_4
+    21300008: Sprite_piso_mini_5
+    21300010: Sprite_piso_mini_6
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 15
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

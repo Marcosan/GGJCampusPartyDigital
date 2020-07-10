@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81d361881b3ee9444b52f668298543a2
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

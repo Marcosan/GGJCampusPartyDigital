@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 71a1bcbc24cf4e74d8a67cf0bf495102
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_agua01_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_agua01_1
+    11400006: Tile_agua01_2
+    11400008: Tile_agua01_3
+    11400010: Tile_agua01_4
+    11400012: Tile_agua01_5
+    11400014: Tile_agua01_6
+    11400016: Tile_agua01_7
+    11400018: Tile_agua01_8
+    11400020: Tile_agua01_9
+    11400022: Tile_agua01_10
+    11400024: Tile_agua01_11
+    11400026: Tile_agua01_12
+    11400028: Tile_agua01_13
+    11400030: Tile_agua01_14
+    11400032: Tile_agua01_15
+    11400034: Tile_agua01_16
+    11400036: Tile_agua01_17
+    11400038: Tile_agua01_18
+    21300000: Sprite_agua01_1
+    21300002: Sprite_agua01_2
+    21300004: Sprite_agua01_3
+    21300006: Sprite_agua01_4
+    21300008: Sprite_agua01_5
+    21300010: Sprite_agua01_6
+    21300012: Sprite_agua01_7
+    21300014: Sprite_agua01_8
+    21300016: Sprite_agua01_9
+    21300018: Sprite_agua01_10
+    21300020: Sprite_agua01_11
+    21300022: Sprite_agua01_12
+    21300024: Sprite_agua01_13
+    21300026: Sprite_agua01_14
+    21300028: Sprite_agua01_15
+    21300030: Sprite_agua01_16
+    21300032: Sprite_agua01_17
+    21300034: Sprite_agua01_18
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 39
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="9" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="15" nextobjectid="1">
+ <tileset firstgid="1" source="tsx/Piso05.tsx"/>
+ <tileset firstgid="65" source="tsx/Sala02.tsx"/>
+ <tileset firstgid="321" source="tsx/Sala01.tsx"/>
+ <tileset firstgid="777" source="tsx/Sala08.tsx"/>
+ <tileset firstgid="1033" source="tsx/Sala06.tsx"/>
+ <tileset firstgid="1847" source="tsx/Sala03.tsx"/>
+ <tileset firstgid="2135" source="tsx/Sala04.tsx"/>
+ <tileset firstgid="2572" source="tsx/Mueble01.tsx"/>
+ <tileset firstgid="2828" source="tsx/Mueble04.tsx"/>
+ <tileset firstgid="3084" source="tsx/Biblio02.tsx"/>
+ <tileset firstgid="3435" source="tsx/Exterior02.tsx"/>
+ <tileset firstgid="3691" source="tsx/Mueble05.tsx"/>
+ <tileset firstgid="3947" source="tsx/Tecno03.tsx"/>
+ <tileset firstgid="4203" source="tsx/Piso03.tsx"/>
+ <tileset firstgid="4331" source="tsx/col_red.tsx"/>
+ <layer id="8" name="piso" width="9" height="8">
+  <data encoding="csv">
+4203,4203,4203,4203,4203,4203,4203,4203,4203,
+4203,720,720,724,724,745,720,726,4203,
+4203,724,724,724,724,724,724,726,4203,
+4203,724,724,724,724,724,724,724,4203,
+4203,724,724,724,724,724,724,724,4203,
+4203,724,724,724,724,724,724,724,4203,
+4203,724,724,724,724,724,724,724,4203,
+4203,4203,4203,4203,4203,4203,4203,4203,4203
+</data>
+ </layer>
+ <layer id="9" name="cubertor" width="9" height="8" opacity="0.23">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,722,0,
+0,722,0,0,0,0,722,722,0,
+0,722,722,722,722,722,722,722,0,
+0,722,722,722,722,722,722,722,0,
+0,722,722,722,722,722,722,722,0,
+0,722,722,722,722,722,722,722,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="10" name="pared" width="9" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,4241,4241,4241,4241,4241,4241,4241,0,
+0,4241,4241,4241,4241,4241,4241,4241,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,610,611,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="11" name="ventanas" width="9" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,0,0,3388,3389,0,0,0,0,
+0,0,0,3401,3402,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="12" name="objetos" width="9" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,3240,3241,0,0,3097,3245,0,0,
+0,3253,3254,1129,1130,1131,3258,0,0,
+0,3266,3267,1151,1152,1153,3271,3363,0,
+0,0,0,0,0,0,0,2925,0,
+0,0,0,0,0,0,0,2941,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="13" width="9" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,3987,0,0,3337,0,
+0,0,0,3327,4003,0,0,3350,0,
+0,0,0,0,3128,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="14" name="Collision" width="9" height="8" opacity="0">
+  <data encoding="csv">
+4331,4331,4331,4331,4331,4331,4331,4331,4331,
+4331,0,0,0,0,0,0,0,4331,
+4331,4331,4331,4331,4331,4331,4331,4331,4331,
+4331,0,0,0,0,0,0,0,4331,
+4331,0,0,0,0,0,0,4331,4331,
+4331,0,0,0,0,0,0,4331,4331,
+4331,0,0,0,0,0,0,0,4331,
+4331,4331,4331,4331,4331,4331,4331,4331,4331
+</data>
+ </layer>
+</map>
