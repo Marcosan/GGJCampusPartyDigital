@@ -19,6 +19,7 @@ TagManager:
   - Warp
   - DialogoOpciones
   - darkness
+  - floor
   layers:
   - Default
   - TransparentFX
